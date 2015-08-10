@@ -2,8 +2,8 @@
 //  main.m
 //  player
 //
-//  Created by caoting on 15/7/29.
-//  Copyright (c) 2015年 SureWinter. All rights reserved.
+//  Created by surewinter on 15/2/4.
+//  Copyright (c) 2015年 surewinter. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
